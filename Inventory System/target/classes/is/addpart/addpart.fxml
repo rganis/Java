@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.addPartController">
+   <children>
+      <Label layoutX="37.0" layoutY="56.0" text="Add Part" />
+      <ButtonBar layoutX="141.0" layoutY="56.0">
+         <buttons>
+            <RadioButton fx:id="AddPartInHouse" mnemonicParsing="false" onAction="#addInHouseRadio" selected="true" text="In-House">
+               <toggleGroup>
+                  <ToggleGroup fx:id="PartType" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton fx:id="AddPartOutsourced" mnemonicParsing="false" onAction="#addOutsourcedRadio" text="Outsourced" toggleGroup="$PartType" />
+         </buttons>
+      </ButtonBar>
+      <Label layoutX="37.0" layoutY="108.0" text="ID" />
+      <Label layoutX="37.0" layoutY="143.0" text="Name" />
+      <Label layoutX="37.0" layoutY="178.0" text="Inventory" />
+      <Label layoutX="37.0" layoutY="213.0" text="Price/Cost" />
+      <Label layoutX="37.0" layoutY="248.0" text="Max" />
+      <Label fx:id="IDorCompanyLabel" layoutX="37.0" layoutY="291.0" text="Machine ID" />
+      <TextField fx:id="AddPartID" editable="false" layoutX="137.0" layoutY="108.0" opacity="0.5" promptText="Auto Generated" />
+      <TextField fx:id="AddPartName" layoutX="137.0" layoutY="143.0" />
+      <TextField fx:id="AddPartInv" layoutX="137.0" layoutY="178.0" />
+      <TextField fx:id="AddPartCost" layoutX="137.0" layoutY="213.0" />
+      <TextField fx:id="AddPartMax" layoutX="137.0" layoutY="248.0" />
+      <TextField fx:id="IDorCompany" layoutX="137.0" layoutY="287.0" />
+      <TextField fx:id="AddPartMin" layoutX="355.0" layoutY="248.0" />
+      <Label layoutX="313.0" layoutY="248.0" text="Min" />
+      <ButtonBar layoutX="330.0" layoutY="358.0" prefHeight="40.0" prefWidth="200.0">
+        <buttons>
+          <Button fx:id="AddPartSave" mnemonicParsing="false" onAction="#addPartSaveClick" text="Save" />
+            <Button fx:id="AddPartCancel" mnemonicParsing="false" onAction="#addPartCancelClick" text="Cancel" />
+        </buttons>
+      </ButtonBar>
+   </children>
+</AnchorPane>
