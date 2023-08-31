@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="InventorySystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17b90fc1-c5e0-4d34-9245-a1172f2dc518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/addPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/addPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/addProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/addProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/mainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/mainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/modPartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/modPartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/modProdController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/modProdController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/is/mainscreen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/is/mainscreen/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/CallableFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/CallableFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/InHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/InHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Outsourced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Outsourced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Part.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Sih6nqSUOIaR2tKEAD10raMQun" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rgani/Downloads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.24482758&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rgani\IdeaProjects\Inventory System\src\main\resources\is\addpart" />
+      <recent name="C:\Users\rgani\IdeaProjects\Inventory System\src\main\java\model" />
+      <recent name="C:\Users\rgani\IdeaProjects\Inventory System\src\main\model" />
+      <recent name="C:\Users\rgani\IdeaProjects\Inventory System\src\main\java" />
+      <recent name="C:\Users\rgani\IdeaProjects\Inventory System\src\main\resources\is\mainscreen" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="is.mainscreen.Main" />
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="is.mainscreen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Inventory System" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Inventory System" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17b90fc1-c5e0-4d34-9245-a1172f2dc518" name="Changes" comment="" />
+      <created>1689635139152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689635139152</updated>
+      <workItem from="1689635140154" duration="4815000" />
+      <workItem from="1689685733583" duration="7881000" />
+      <workItem from="1689772503001" duration="5290000" />
+      <workItem from="1689854262300" duration="8375000" />
+      <workItem from="1689942097501" duration="8367000" />
+      <workItem from="1689951965064" duration="570000" />
+      <workItem from="1689952542879" duration="4233000" />
+      <workItem from="1689956780949" duration="876000" />
+      <workItem from="1690030864447" duration="76000" />
+      <workItem from="1690031040971" duration="33524000" />
+      <workItem from="1690246641233" duration="744000" />
+      <workItem from="1690424613455" duration="1593000" />
+      <workItem from="1690594725811" duration="6563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="maven" value="C:\Users\rgani\.m2" />
+    </envs>
+    <option name="passParentEnvs" value="false" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="newProduct" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Inventory_System$Main.ic" NAME="Main Coverage Results" MODIFIED="1690047791661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>is.mainscreen.*</FILTER>
+    </SUITE>
+  </component>
+</project>
